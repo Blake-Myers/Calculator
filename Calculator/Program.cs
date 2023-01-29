@@ -1,2 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World! Hello C# Academy");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, C# Academy");
